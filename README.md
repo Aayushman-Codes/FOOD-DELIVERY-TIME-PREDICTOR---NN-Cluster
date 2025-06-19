@@ -1,5 +1,5 @@
 # FOOD-DELIVERY-TIME-PREDICTOR---NN Cluster
-Food Delivery Time Predictor using NNClustering
+Food Delivery Time Predictor using Nueral Networks Clustering
 
 This model was built on Kaggle Notebook since the code might not work on Jupyter Notebook due to version diferences or thw use of Jupyter Web (which isnt the problem with Kaggle Notebook). The main source code utilises Machine Learning Algorithms specified to give the required output (included with the code itself).
 
@@ -19,6 +19,6 @@ This model was built on Kaggle Notebook since the code might not work on Jupyter
 
 Type of Model: Neural Networks Clustering
 
-Objective: Predict estimated food delivery time based on various features like distance, restaurant rating, delivery partner experience, etc.
+Objective: The goal of this model is to predict whether a food delivery will be "Fast" or "Delayed" based on features like customer location, restaurant location, weather, traffic conditions, and more. This dataset can be used to explore clustering and neural network models for predictive analytics.
 
 Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
